@@ -3,7 +3,7 @@
 ##Background
 The U.S. forest service publishes a KMZ file with information on active wildfires happening in the United States. This KMZ file contains polygons and placemarks that denote detection footprints and centroids for each active wildfire. The KMZ format is great for visualizing the data in Google Earth, but not particularly handy for loading this wildfire data into a relational database.
 
-##U.S. Forest Service Active Fire Mapping Program website
+##U.S. Forest Service Active Fire Mapping Program
 http://activefiremaps.fs.fed.us/
 
 ##Workflow
